@@ -5,9 +5,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="zahraMorovati | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="zahraMorovati | YouTube" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/50/000000/external-youtube-social-media-justicon-lineal-color-justicon.png" />][youtube]
 [<img align="left" alt="zahraMorovati | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+
 ---
 ![Tuzki by HAZ™ Inc_](https://user-images.githubusercontent.com/90718563/133885183-0484ab3c-3df8-44dc-81c4-3c27f5b1ba5f.gif)
 

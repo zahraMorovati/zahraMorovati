@@ -8,7 +8,7 @@
 [<img align="left" alt="zahraMorovati | YouTube" width="22px" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="zahraMorovati | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="zahraMorovati | Spotify" width="22px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />][spotify]
-[<img align="left" alt="zahraMorovati | Namasha" width="22px" src="http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd" />][namasha]
+
 <br />
 ---
 ![Tuzki by HAZ™ Inc_](https://user-images.githubusercontent.com/90718563/133885183-0484ab3c-3df8-44dc-81c4-3c27f5b1ba5f.gif)

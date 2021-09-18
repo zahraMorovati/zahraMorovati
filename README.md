@@ -9,7 +9,8 @@
 [<img align="left" alt="zahraMorovati | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 ---
-![image_processing20210908-27062-e4x5o2](https://user-images.githubusercontent.com/90718563/133885011-ca6dd1f5-fc8a-43e0-948c-32d4ad96b442.gif)
+![Tuzki by HAZ™ Inc_](https://user-images.githubusercontent.com/90718563/133885183-0484ab3c-3df8-44dc-81c4-3c27f5b1ba5f.gif)
+
 
 [youtube]: https://www.youtube.com/channel/UCnDt4cw_O88PzShdULdAeLw
 [instagram]:https://www.instagram.com/wallflower1378/

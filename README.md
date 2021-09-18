@@ -16,4 +16,4 @@
 [youtube]: https://www.youtube.com/channel/UCnDt4cw_O88PzShdULdAeLw
 [instagram]:https://www.instagram.com/wallflower1378/
 [spotify]:https://open.spotify.com/user/31dje4hhwymicbrc4w6664dtq36a?si=V-sIuBbjRDGaiSN90BT9tw&utm_source=native-share-menu&dl_branch=1
-[namasha]:https://www.namasha.com/channel6742285710
+

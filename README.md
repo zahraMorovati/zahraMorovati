@@ -1,3 +1,5 @@
+![Picture1](https://user-images.githubusercontent.com/90718563/135726815-cdff3eee-8043-434d-917c-c2158cdbac7a.png)
+
 ### Hi there, I'm zahra  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - 🔴 I’m currently learning java in maktab 😁👩
 - 🟠 my current repositories are my homeworks so dont take it serious 🙂
@@ -10,8 +12,6 @@
 [<img align="left" alt="zahraMorovati | Spotify" width="22px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />][spotify]
 <br />
 ---
-
-![Tuzki by HAZ™ Inc_](https://user-images.githubusercontent.com/90718563/133885183-0484ab3c-3df8-44dc-81c4-3c27f5b1ba5f.gif)
 
 [youtube]: https://www.youtube.com/channel/UCnDt4cw_O88PzShdULdAeLw
 [instagram]:https://www.instagram.com/wallflower1378/

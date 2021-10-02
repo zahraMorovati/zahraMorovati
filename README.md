@@ -1,4 +1,4 @@
-![Picture1](https://user-images.githubusercontent.com/90718563/135726815-cdff3eee-8043-434d-917c-c2158cdbac7a.png)
+![Picture1](https://user-images.githubusercontent.com/90718563/135726905-61e3ea6f-ea71-43f8-91c7-813ff2af21f5.png)
 
 ### Hi there, I'm zahra  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - 🔴 I’m currently learning java in maktab 😁👩

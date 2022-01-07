@@ -3,7 +3,7 @@
 - 🔶️ I’m currently learning java in maktab 😁👩
 - 🔶️ as you can see my repositories are my homeworks 
 - 🔶️ Fun fact: I love listen to music and watch movies 🎵🎧
-- 🔶️ I love Java and I hope to be a good developer one day☕💙
+- 🔶️ I love Java and I hope to be a good developer one day☕🧡
 
 ### Connect with me:
 
